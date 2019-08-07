@@ -1,4 +1,5 @@
 package rpgarena;
+
 public class Character {
 
         public String name;
@@ -11,7 +12,21 @@ public class Character {
                 this.health -= damageTaken;
                 return damageTaken;
         }
+        public static String[] nameList = {"Geff", "Stee", "Kroger"};
 
+        public Character()
+        {
+                this.name = nameList[Arena.generator.nextInt(nameList.length)];
+        }
+        public Character(int str, int def, int health)
+        {
+                this();
+                this.strength = str;
+                this.defense = def;
+                this.health = health;
+
+
+        }
         public int attack(Character target){
                 int damage = this.strength * 2;
                 int damageDealt = target.takeDamage(damage);
