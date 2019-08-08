@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9741742d-317b-4b5a-a25b-f00120776baf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Changingclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastuff/ArrayLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datastuff/LinkedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rpgarena/Knight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rpgarena/Mage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rpgarena/Arena.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rpgarena/Arena.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rpgarena/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rpgarena/Character.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rpgarena/Rouge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rpgarena/Rouge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stacks.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +85,7 @@
       </method>
     </configuration>
     <configuration name="Stacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stacks" />
+      <option name="MAIN_CLASS_NAME" value="PLAINDROME.Stacks" />
       <module name="Noah K" />
       <method v="2">
         <option name="Make" enabled="true" />
