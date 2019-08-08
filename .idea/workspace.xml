@@ -2,29 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9741742d-317b-4b5a-a25b-f00120776baf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/rpgarena/Rouge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Changingclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastuff/ArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastuff/LinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rpgarena/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rpgarena/Mage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Noah K.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Noah K.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Character.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/rpgarena/Arena.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rpgarena/Arena.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/rpgarena/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rpgarena/Character.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/textadventure/Adventure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/textadventure/Adventure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/textadventure/EndlessDungeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/textadventure/EndlessDungeon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/ArithmeticExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/ArithmeticExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/CharacterCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/CharacterCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/CheckInventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/CheckInventory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/DragonSlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/DragonSlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/MadLibs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/MadLibs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/MonsterGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/MonsterGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/TheGuard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/TheGuard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial/Treasure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/Treasure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rpgarena/Rouge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rpgarena/Rouge.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +34,7 @@
   <component name="ProjectId" id="1P67OjhHdfoJXOHSWTJX8A0YzKN" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -57,6 +47,70 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Application.Stacks">
+    <configuration name="Arena" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rpgarena.Arena" />
+      <module name="Noah K" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rpgarena.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastuff.ArrayLists" />
+      <module name="Noah K" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastuff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Changingclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Changingclass" />
+      <module name="Noah K" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastuff.LinkedLists" />
+      <module name="Noah K" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastuff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stacks" />
+      <module name="Noah K" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Stacks" />
+        <item itemvalue="Application.LinkedLists" />
+        <item itemvalue="Application.Changingclass" />
+        <item itemvalue="Application.ArrayLists" />
+        <item itemvalue="Application.Arena" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -76,7 +130,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

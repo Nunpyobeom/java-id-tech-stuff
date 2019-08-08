@@ -12,7 +12,7 @@ public class Character {
                 this.health -= damageTaken;
                 return damageTaken;
         }
-        public static String[] nameList = {"Geff", "Stee", "Kroger"};
+        public static String[] nameList = {"Geff", "Stee", "Kroger", "kool kid", "strong kid", "wierd kid", "noob"};
 
         public Character()
         {
