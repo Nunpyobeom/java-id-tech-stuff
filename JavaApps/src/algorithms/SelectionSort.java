@@ -14,7 +14,7 @@ public class SelectionSort {
             for (int j = i + 1; j < arrlen; j++) {
                 if (values[j] < values[smallest]) {
                     smallest = j;
-                }   
+                }
             }
 
             int temp = values[smallest];

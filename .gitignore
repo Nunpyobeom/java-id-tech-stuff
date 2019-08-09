@@ -1,2 +1,7 @@
+# Compiled Java files
 *.class
 out/
+
+# Compiled C++ files
+*.out
+*.exe
